@@ -81,5 +81,3 @@ To build a machine learning model that predicts whether a person earns more than
 
 ---
 
-## 📁 Folder Structure
-
